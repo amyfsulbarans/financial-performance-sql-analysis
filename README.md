@@ -32,3 +32,7 @@ The goal was to evaluate revenue, profit, margin, and ROI in order to identify h
 - KPI Calculation
 - Business Intelligence
 - Reporting & Insights
+## SQL File
+You can review the main SQL queries here:
+
+[View SQL Queries](sql/financial_analysis_queries.sql)
