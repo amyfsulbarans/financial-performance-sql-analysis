@@ -36,3 +36,9 @@ The goal was to evaluate revenue, profit, margin, and ROI in order to identify h
 You can review the main SQL queries here:
 
 [View SQL Queries](sql/financial_analysis_queries.sql)
+
+## Business Questions
+- Which markets generate the highest revenue?
+- Which products have the strongest profit margins?
+- Which campaigns deliver the best ROI?
+- Which customer segments contribute the most to revenue?
