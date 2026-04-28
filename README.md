@@ -58,6 +58,10 @@ This analysis evaluates profitability by country using revenue, cost, and market
 - Increase marketing investment in high-ROI markets such as the United States and Australia
 - Reassess marketing strategies in lower-ROI markets (UK, Germany, France) to improve efficiency and return
 
+## Sample Output
+
+![Financial Performance](financial_performance_table.png)
+
 ## Key Concepts
 
 - **Profit Margin** measures business profitability after production costs  
